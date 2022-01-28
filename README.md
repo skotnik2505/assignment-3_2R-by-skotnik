@@ -1,6 +1,6 @@
 # Assignment_3_2R_by_skotnik
 
-# 3_2R_Part_1
+# Part_1
 
 # remindme function
 remindme() function takes no arguments and returns the list of things to remember 
@@ -44,7 +44,7 @@ Try out cheating:
 > cheat(16)
 
 
-# 3_2R_Part_2: make_art function
+# Part_2: make_art function
 
 make_art function allows the users to produce random art. It takes a random number as a single argument (for more arguments it takes only the first element)
 
